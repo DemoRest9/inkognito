@@ -6,7 +6,7 @@ window.SITE = {
   currency: "GEL",
 
   // <- ჩასვი Inkognito-ს ახალი Google Sheet-ის Apps Script /exec ბმული
-  sheetUrl: "PASTE_INKOGNITO_EXEC_URL_HERE",
+  sheetUrl: "https://script.google.com/macros/s/AKfycbzkuYmimuW6Aa7q2ldP9TDHeo8E2LVsxPBzplz2q5cv-TISpaNzx0N7F77Ov00LHqIX/exec",
 
   orderEndpoint: "",                  // ცარიელი = DEMO რეჟიმი
   allowedIps: [],
